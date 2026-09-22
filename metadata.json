@@ -1,0 +1,6 @@
+{
+  "name": "Pastel Tech Health Analytics Dashboard",
+  "description": "แดชบอร์ดวิเคราะห์สุขภาวะชุมชนและพฤติกรรมสุขภาพแบบเรียลไทม์ โทนสี Pastel Tech พร้อมระบบประมวลผลสถิติและตัวกรองเชิงลึก",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
